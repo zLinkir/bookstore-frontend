@@ -15,6 +15,12 @@
 }
 /*FIM TITULO*/
 
+
+button{
+    margin-bottom: .8rem;
+   color: crimson;
+}
+
 /*TABELA*/
 .table{
     width: 100%;
